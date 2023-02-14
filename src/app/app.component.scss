@@ -1,0 +1,57 @@
+:host {
+  background-color: yellow;
+  border: 2px solid black;
+  display: block;
+  height: 100vh;
+}
+
+h1 {
+  color: blue;
+  font: 45px Arial;
+  text-align: center;
+  text-shadow: 2px 2px black;
+}
+
+p {
+  font: 25px Arial;
+  text-shadow: 2px 2px black;
+  display: inline;
+  border: 2px solid black;
+}
+
+.p1 {
+  color: rgb(42, 134, 39);
+  text-align: left;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 400px;
+  padding-left: 30px;
+
+  background-image: url('https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png');
+  height: 50px;
+  width: 50px;
+}
+
+.p2 {
+  color: red;
+  text-align: center;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 420px;
+
+  background-image: url('https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png');
+  height: 50px;
+  width: 50px;
+}
+
+.p3 {
+  color: rgb(0, 183, 255);
+
+  text-align: right;
+
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 450px;
+}
